@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+This project is called "technics" iand is build in Google Drive
 
 ## Environments
 - Preview: https://main--technics--gavdberg.hlx.page/
